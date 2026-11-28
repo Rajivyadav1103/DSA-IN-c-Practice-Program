@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/rajivyadav/DSA IN C++ practice programs/Pointer/Array",
-      "program": "/Users/rajivyadav/DSA IN C++ practice programs/Pointer/Array/build/Debug/outDebug"
+      "cwd": "/Users/rajivyadav/DSA IN C++ practice programs/String",
+      "program": "/Users/rajivyadav/DSA IN C++ practice programs/String/build/Debug/outDebug"
     }
   ]
 }
